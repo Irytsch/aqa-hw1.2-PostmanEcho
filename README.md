@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ntx10wc11s13wy76?svg=true)](https://ci.appveyor.com/project/Irytsch/aqa-hw1-2-postmanecho)
